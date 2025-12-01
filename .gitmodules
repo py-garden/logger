@@ -1,0 +1,3 @@
+[submodule "data_structure_utils"]
+	path = data_structure_utils
+	url = git@github.com:py-garden/data_structure_utils.git
